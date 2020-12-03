@@ -38,7 +38,7 @@
             </div>
           </div>
           <div class="row">
-              <div class="col col-xl-12 col-md-4">
+              <div class="col col-xl-12 col-md-12 col-12 col-lg-12 col-sm-12 ">
                 KSRTC, the fond name for Kerala State Road Transport Corporation, connects the state well on road. As one of the oldest operated and managed public transports of India.
                 The history of Kerala State Road Transport Corporation began whilst the development of the transport industry it wasn't booming enough like today. The Travancore State Transport Department (TSTD) was constituted by the erstwhile Travancore Government with a view to reorganize the transport service of the State.Mr E.G. Salter, Assistant, Operating Supdt of London Passenger Transport Board was appointed as Supdt on 20.9.1937
                 <p>The State Motor Service was inaugurated by His Highness Sree Chithirathirunal on 20.2.1938. His Highness and his kin were the first passengers of the inaugration trip and Mr. Salter was himself the driver to that bus. This bus along with the 33 other buses brought on road driving through the Kawdiar Square was seen to be a beautiful attraction.</p>

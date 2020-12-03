@@ -82,7 +82,7 @@
           <a class="footer-contact-us"><i class="fa fa-envelope" aria-hidden="true"></i>cmd@kerala.gov.in (General Enquiry)</a>
           <a class="footer-contact-us"><i class="fa fa-envelope" aria-hidden="true"></i>rsnksrtc@kerala.gov.in (Online Resevation)</a>
         </div>
-        <div class="col-md-3 footer-info">
+        <div class="col-md-12 col-12 col-lg-12 col-sm-12 col-xl-12 footer-info">
         <h5 class="mb-3">Usefull Links</h5>
           <ul>
             <li><a href="history.html"><i class="fa fa-angle-right" aria-hidden="true"></i> Abous Us</a></li>
@@ -95,11 +95,11 @@
             <li><a href="keypeople.html"><i class="fa fa-angle-right" aria-hidden="true"></i> Keypeople</a></li>
           </ul>
         </div>
-        <div class="col-md-3 footer-info">
+        <div class="col-md-12 col-12 col-lg-12 col-sm-12 col-xl-12 footer-info">
         <h5 class="mb-3">Related Links</h5>
           <ul>
           </div>
-					<div class="col-md-3 footer-info">
+					<div class="col-md-12 col-12 col-lg-12 col-sm-12 col-xl-12 footer-info">
 					<h5 class="mb-3">Related Links</h5>
 						<ul>
 							<li><a href="officers.html"><i class="fa fa-angle-right" aria-hidden="true"></i> Directory</a></li>
@@ -113,7 +113,7 @@
 							<li><a href="Empforms.html"><i class="fa fa-angle-right" aria-hidden="true"></i> Forms</a></li>
 						</ul>
 					</div>
-					<div class="col-md-3 footer-info">
+					<div class="col-md-12  col-12 col-lg-12 col-sm-12 col-xl-12footer-info">
 					<h5 class="mb-3">More links</h5>
 						<ul>
 							<li><a href="ticketbooking.html"><i class="fa fa-angle-right" aria-hidden="true"></i> Helpline Phone Nos</a></li>
@@ -128,7 +128,7 @@
 			<hr>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12 text-center">
+					<div class="col-md-12  col-12 col-lg-12 col-sm-12 col-xl-12 text-center">
 						<p>© Copyright 2018 : Electronic Data Processing Centre, Transport Bhavan, KSRTC. All Rights Reserved.</p>
 					</div>
 				</div>
